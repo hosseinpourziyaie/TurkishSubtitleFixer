@@ -1,0 +1,9 @@
+G:\savegame & patch & mods\Programming\Umbrella Developing Center\HosseinPourziyaie Projects\SubtitleFixer\TurkishSubtitleFixer\bin\Release\TurkishSubtitleFixer.exe.config
+G:\savegame & patch & mods\Programming\Umbrella Developing Center\HosseinPourziyaie Projects\SubtitleFixer\TurkishSubtitleFixer\bin\Release\TurkishSubtitleFixer.exe
+G:\savegame & patch & mods\Programming\Umbrella Developing Center\HosseinPourziyaie Projects\SubtitleFixer\TurkishSubtitleFixer\bin\Release\TurkishSubtitleFixer.pdb
+G:\savegame & patch & mods\Programming\Umbrella Developing Center\HosseinPourziyaie Projects\SubtitleFixer\TurkishSubtitleFixer\obj\Release\TurkishSubtitleFixer.frm_Main.resources
+G:\savegame & patch & mods\Programming\Umbrella Developing Center\HosseinPourziyaie Projects\SubtitleFixer\TurkishSubtitleFixer\obj\Release\TurkishSubtitleFixer.Properties.Resources.resources
+G:\savegame & patch & mods\Programming\Umbrella Developing Center\HosseinPourziyaie Projects\SubtitleFixer\TurkishSubtitleFixer\obj\Release\TurkishSubtitleFixer.csproj.GenerateResource.Cache
+G:\savegame & patch & mods\Programming\Umbrella Developing Center\HosseinPourziyaie Projects\SubtitleFixer\TurkishSubtitleFixer\obj\Release\TurkishSubtitleFixer.exe
+G:\savegame & patch & mods\Programming\Umbrella Developing Center\HosseinPourziyaie Projects\SubtitleFixer\TurkishSubtitleFixer\obj\Release\TurkishSubtitleFixer.pdb
+G:\savegame & patch & mods\Programming\Umbrella Developing Center\HosseinPourziyaie Projects\SubtitleFixer\TurkishSubtitleFixer\obj\Release\TurkishSubtitleFixer.csprojResolveAssemblyReference.cache
